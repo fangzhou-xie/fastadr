@@ -9,8 +9,9 @@
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- badges: end -->
 
-The goal of fastadr is to provide the `FastAD` automatic differentiation
-library in R.
+The goal of fastadr is to provide the
+[FastAD](https://github.com/JamesYang007/FastAD) automatic
+differentiation library in R.
 
 ## Installation
 
